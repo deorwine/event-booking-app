@@ -43,14 +43,14 @@ lib
 │      │──apppages.dart
 │      └──approutes.dart
 └───screens
-      └──create_event
-      │        └──create_events.dart
-      └──eventsDetailScreen
-      │        └──eventdetailscreen.dart
-      └──favourite
-      │        └──favouritescreen.dart
-      └──myticket
-               └──myticket.dart
+       └──create_event
+       │        └──create_events.dart
+       └──eventsDetailScreen
+       │        └──eventdetailscreen.dart
+       └──favourite
+       │        └──favouritescreen.dart
+       └──myticket
+                └──myticket.dart
 ```
 
 
