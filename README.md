@@ -1,4 +1,4 @@
-## flutter Event-Booking App
+## Event-Booking App
 
 Event-Booking app is a design and implemented. App designed by Deorwine Infotech
 
