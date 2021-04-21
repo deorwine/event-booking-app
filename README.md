@@ -1,6 +1,6 @@
 ## Event-Booking App
 
-Event-Booking app ui,app design and implemented by Deorwine Infotech.
+Event-Booking app UI using Flutter.
 
 ## Android Screenshots
   HomePage                 |   Creat Event Page        |  My Ticket Page           |    Detail                 |   Favourite
