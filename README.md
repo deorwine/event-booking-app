@@ -61,7 +61,7 @@ lib
 
 
 
-> If you found this project helpful or you learned something from the source code and want to thank team deorwine:
+> If you found this project helpful or you learned something from the source code and want to thank team deorwine then please connect on us different platform:
 >  * [Deorwine Infotech](https://deorwine.com/career/)
 
 
