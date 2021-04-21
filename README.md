@@ -1,6 +1,6 @@
 # event
 
-A new Flutter application.
+Event-Booking app is a design implementaion of Event-Booking App designed by Deorwine
 
 ## Getting Started
 
