@@ -1,6 +1,6 @@
 ## flutter Event-Booking App
 
-Event-Booking app is a design implementaion of Event-Booking App designed by Deorwine
+Event-Booking app is a design and implemented. App designed by Deorwine Infotech
 
 ## Android Screenshots
   HomePage                 |   Creat Event Page        |  My Ticket Page           |    Detail                 |   Favourite
@@ -66,18 +66,6 @@ lib
 
 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
 
 
 
