@@ -57,13 +57,20 @@ lib
 
 ## Created & Maintained By
 
-[Deorwine Infotech](https://deorwine.com/career/) ([Linkedin](https://in.linkedin.com/company/deorwine-infotech))
+[Deorwine Infotech](https://deorwine.com/)
 
-
+ 
+ 
+ 
+ 
 
 > If you found this project helpful or you learned something from the source code and want to thank team deorwine then please connect on us different platform:
->  * [Deorwine Infotech](https://deorwine.com/career/)
-
+>  * [Site](https://deorwine.com/)
+>  * [Linkedin](https://www.linkedin.com/company/deorwine-infotech)
+>  * [Facebook](https://www.facebook.com/deorinfo/)
+>  * [Instagram](https://www.instagram.com/deorwine_infotech/)
+>  * [Twitter ](https://twitter.com/DeorwineI)
+>  * you can also contact us on email info@deorwine.com 
 
 
 
